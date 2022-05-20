@@ -1,2 +1,5 @@
 #Resources file
 /resources
+
+#Pycache ignore
+__pycache__
